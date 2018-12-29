@@ -1,5 +1,5 @@
-# myexercise
-this is my homework and code essay.so no need to take it very serious.
+# myscript
+
 
 #banach's match problem
 #plot the gamma distribution
