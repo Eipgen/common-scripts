@@ -1,1 +1,1 @@
-hazzy box
+hazy box
